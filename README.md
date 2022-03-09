@@ -1,3 +1,4 @@
 ##PROJECT
 <b>MODERN COLLEGE</b>
-img src="E:\WEB PROGRAMMING\Campus.jpg" alt="">
+"E:\WEB PROGRAMMING\backgroundimg.jpeg"
+<a href=""><img src="E:\WEB PROGRAMMING\Campus.jpg" alt=""></a>
