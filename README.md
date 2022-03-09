@@ -1,0 +1,49 @@
+##PROJECT
+<b>MODERN COLLEGE</b>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <link rel="stylesheet" href="The Modern College.css">
+   <link rel="stylesheet" href="../all.css">
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <meta name="author" content="Atharv Ghule">
+   <title>The Modern College - Pune</title>
+</head>
+<body>
+   <nav class="navlist"></nav>
+      <ul>
+         <li><h4>TMC.</h4></li>
+         <li><a href="">Home</a></li>
+         <li><a href="">About</a></li>
+         <li><a href="">Course</a></li>
+         <li><a href="">Faculty</a></li>
+      </ul>   
+         <h3><a href="Feedback form.html">Feedback</a>
+   </nav>
+   <div class="main-box">
+      <h1>THE MODERN COLLEGE, PUNE</h1>
+      <p>India's One Of The Best Engeneering College</p>
+      <button>ENROLL NOW</button>
+   </div>
+   <div class="container">
+      <h2>FACILITIES</h2>
+      <div class="row">
+         <div class="column">
+         <a href=""><img src="E:\WEB PROGRAMMING\Campus.jpg" alt=""></a>
+         <a href="">CAMPUS</a>
+         </div>
+         <div class="column">
+            <a href=""><img src="E:\WEB PROGRAMMING\Canteen.jpg" alt=""></a>
+            <a href="">CANTINE</a>
+         </div>
+         <div class="column">
+            <a href=""><img src="E:\WEB PROGRAMMING\Library.jpg" alt=""></a>
+            <a href="">LIBRARY</a>
+         </div>
+      </div>
+   </div>
+</body>
+</html>
+</body>
+</html>
